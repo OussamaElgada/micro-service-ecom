@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0cde6f4c-7362-4fe4-83a6-d9791ff54c90" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/config-repo/bulling-service-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config-repo/bulling-service-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-repo/bulling-service-prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config-repo/bulling-service-prod.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-repo/bulling-service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config-repo/bulling-service.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-repo/customer-service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config-repo/customer-service.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-repo/inventory-service-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config-repo/inventory-service-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-repo/inventory-service-prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config-repo/inventory-service-prod.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-repo/inventory-service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config-repo/inventory-service.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/config-repo" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="36FP66MbDPyciq2eo3nOvKjS7xg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.ConfigServiceApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/EL Gadoux/IdeaProjects/config-service/config-repo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "spring",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\EL Gadoux\IdeaProjects\config-service\config-repo" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ConfigServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="config-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.configservice.ConfigServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0cde6f4c-7362-4fe4-83a6-d9791ff54c90" name="Changes" comment="" />
+      <created>1764599171212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764599171212</updated>
+      <workItem from="1764599173097" duration="225000" />
+      <workItem from="1764599452754" duration="409000" />
+      <workItem from="1764780198343" duration="4128000" />
+      <workItem from="1764838287723" duration="1419000" />
+      <workItem from="1765411166901" duration="1681000" />
+      <workItem from="1765440034160" duration="872000" />
+      <workItem from="1766014791676" duration="4211000" />
+      <workItem from="1766582507297" duration="2469000" />
+      <workItem from="1766619548867" duration="2739000" />
+      <workItem from="1766625357487" duration="1110000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
